@@ -153,7 +153,7 @@ transport . boulot . commun . empreinte:
         alors: TER . empreinte
       - si: type = 'métro'
         alors: métro . empreinte
-       - si: type = 'vélo'
+      - si: type = 'vélo'
         alors: vélo . empreinte
       
   
